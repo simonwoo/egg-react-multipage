@@ -1,0 +1,22 @@
+{
+  "name": "egg-react-multipage",
+  "version": "1.0.0",
+  "description": "multipage application with eggjs and react",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.22.2",
+    "egg-view-nunjucks": "^2.2.0",
+    "koa-webpack-dev-middleware": "^2.0.2",
+    "webpack": "^4.35.3",
+    "webpack-dev-middleware": "^3.7.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.13.0"
+  }
+}
