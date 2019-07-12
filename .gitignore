@@ -4,3 +4,5 @@
 /app/node_modules
 /app/package-lock.json
 /src/renderer/pages/.umi
+/logs
+/run
