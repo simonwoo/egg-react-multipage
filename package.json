@@ -13,10 +13,10 @@
     "egg": "^2.22.2",
     "egg-view-nunjucks": "^2.2.0",
     "koa-webpack-dev-middleware": "^2.0.2",
-    "webpack": "^4.35.3",
+    "webpack": "^5.75.0",
     "webpack-dev-middleware": "^3.7.0"
   },
   "devDependencies": {
-    "egg-bin": "^4.13.0"
+    "egg-bin": "^4.20.0"
   }
 }
