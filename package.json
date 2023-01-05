@@ -17,6 +17,6 @@
     "webpack-dev-middleware": "^3.7.0"
   },
   "devDependencies": {
-    "egg-bin": "^4.13.0"
+    "egg-bin": "^4.20.0"
   }
 }
